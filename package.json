@@ -1,0 +1,19 @@
+{
+  "name": "www-lecture-rahti-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "./node_modules/parcel-bundler/bin/cli.js index.html --port 8080",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
